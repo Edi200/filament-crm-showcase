@@ -70,3 +70,7 @@ A custom Filament `ViewRecord` page rendering a full workbook overview with thre
 - league/csv
 - MySQL
 - Tailwind CSS
+
+## Screenshot
+
+![Filament CRM](crm.png)
